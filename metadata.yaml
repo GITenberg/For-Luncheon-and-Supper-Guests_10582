@@ -1,0 +1,27 @@
+_repo: For-Luncheon-and-Supper-Guests_10582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradley, Alice
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '3585'
+    url: http://www.gutenberg.org/2009/agents/3585
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Luncheons'
+- !lcsh 'Cooking, American'
+- !lcsh 'Menus'
+- GITenberg
+title: For Luncheon and Supper Guests
+url: http://www.gutenberg.org/ebooks/10582
